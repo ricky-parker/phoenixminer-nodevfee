@@ -15,6 +15,7 @@ https://www.virustotal.com/gui/file/cf407f08781291b9470743ddee1a4136a3470efa388e
 -------------------------------
 For updates and feedback visit:
 https://github.com/ricky-parker/phoenixminer-nodevfee
+https://bitcointalk.org/index.php?topic=5282372.0
 
 -----------------------------------------
 If you want to support me, donate ETH to:
