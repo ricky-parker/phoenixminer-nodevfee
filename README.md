@@ -3,6 +3,8 @@ PhoenixMiner 5.1c NoDevfee (c) RP.
 
 Run the miner as usual, devfee is completely disabled.
 
+SHA256 of the archive: ae73210a117366fde9ddf2a4287b7db7f054a494411a4b99cd58b809e3663e8b
+
 --------------------------------------------------------------------------------------------
 Virustotal report for nodevfee.dll shows some detects because .dll is packed with protector:
 https://www.virustotal.com/gui/file/db4ad25b0b4e870eb1bc2ac5f00292cea8f3fd74774837bff4b2bf180c4b14f3/detection
